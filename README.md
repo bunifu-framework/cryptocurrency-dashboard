@@ -1,4 +1,4 @@
-# Cryptocurrency UI dashboard inspiration using Bunifu Ui Framework C#
+# Cryptocurrency UI dashboard inspiration using Bunifu Ui Framework C# and VB.NET
 
 Steps on getting started
 * Clone/Download Zip
